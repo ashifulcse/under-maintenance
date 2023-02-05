@@ -32,8 +32,8 @@ export default function Home() {
                                 />
                             
                             </figure>
-                            <h1 className="mb-2 display-5 title">Hang on! We are under maintenance!</h1>
-                            <p className="col-sm-8 mx-auto">We apologize for any inconvenience caused. We've almost done.</p>
+                            <h1 className="mb-2 display-5 title">Ops! Page Note Found</h1>
+                            <p className="col-sm-8 mx-auto">Wrong URL, or Check the Application is Running on the Server</p>
                         </div>
                     </div>
                 </div>
